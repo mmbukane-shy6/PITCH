@@ -91,10 +91,24 @@ As a user you are able to:
    * Create a <code>start.sh</code> file in the root of the folder and add the following code:
    <code>
     export MAIL_USERNAME=<your-email-address>
+
     export MAIL_PASSWORD=<your-email-password>
+
     export SECRET_KEY=<your-secret-key>
     </code>
 
+    * Edit the configuration instance in <code>manage.py<code> by commenting on production instance and uncommenting development instance
+
+    * To run the application, in your terminal:
+
+    <code>chmod a+x start.sh</code><br>
+    <code>./start.sh</code>
+
+    * To tun the tests for the class file:
+
+    <code>$ python3.6 manage.py server</code>
+
+    
 
 
 
