@@ -101,13 +101,13 @@ As a user you are able to:
 
     * To run the application, in your terminal:
 
-    <code>chmod a+x start.sh</code>
+     - chmod a+x start.sh
 
-    <code>./start.sh</code>
+    - ./start.sh
 
     * To tun the tests for the class file:
 
-    <code>$ python3.6 manage.py server</code>
+      $ python3.6 manage.py server
 
     ### TECHNOLOGIES USED
 
@@ -116,7 +116,7 @@ As a user you are able to:
     * HTML
     * Bootsrap
 
-    This application is developed using <code> Python3.6,Flask,HTML and Bootsrap</code>
+    This application is developed using Python3.6,Flask,HTML and Bootsrap
 
 ### CONTACT INFORMATION
 
