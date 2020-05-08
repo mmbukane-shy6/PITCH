@@ -123,7 +123,7 @@ As a user you are able to:
 Email: sheilaegeidza@gmail.com
 
 ### LICENCE
-MIT License:<LICENSE MIT>
+MIT License: <code>LICENSE MIT</code>
 
 Copyright (c) 2020 Sheila Egeidza
 
