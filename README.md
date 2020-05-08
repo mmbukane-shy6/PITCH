@@ -30,7 +30,6 @@ As a user you are able to:
 
 ### SPECIFICATIONS
 
- some title
 
   <table>
     <thead>
@@ -46,11 +45,20 @@ As a user you are able to:
             <td>Click on any category</td>
             <td>Taken to clicked category</td>
         </tr>
-        <!-- <tr>
-            <td>"new customer ID"</td>
-            <td>camelCase</td>
-            <td><code>newCustomerId</code></td>
-            <td><code>newCustomerID</code></td>
-        </tr> -->
+        <tr>
+            <td>"Click on Click Here To Post A Pitch"</td>
+            <td>if logged in, display form to add a pitch</td>
+            <td>Redirected to the home page</td>
+        </tr>
+        <tr>
+            <td>Click upvote/ downvote button</td>
+            <td>Redirects to home page</td>
+            <td>Upvote/ downvote count changes</td>
+        </tr>
+        <tr>
+            <td>Click on profile</td>
+            <td>Redirects to the profile page</td>
+            <td>User adds bio and profile picture </td>
+        </tr>
     </tbody>
   </table>
