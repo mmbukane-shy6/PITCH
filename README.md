@@ -62,3 +62,40 @@ As a user you are able to:
         </tr>
     </tbody>
   </table>
+
+  ### GETTING STARTED
+
+  #### Prerequisites
+
+  - Python3.7
+  - Virtual enviroment
+  - Pip
+
+  ### Cloning
+
+  - In your terminal:
+
+   <code>git clone https://github.com/mmbukane-shy6/PITCH.git</code>
+   <code>cd pitch</code>
+   
+   ### RUNNING APPLICATION
+
+   * Install virtual environment using <code>$ python3.6 -m venv --without-pip virtual</code>
+
+   * Activate virtual environment using <code>$ </code>source virtual/bin/activate
+
+   * Download pip in our environment using <code> $ curl https://bootstrap.pypa.io/get-pip.py | python</code>
+
+   * Install all the dependencies from the requirements.txt file by running <code>python3.6 pip install -r requirements.txt</code>
+
+   * Create a <code>start.sh</code> file in the root of the folder and add the following code:
+   <code>
+    export MAIL_USERNAME=<your-email-address>
+    export MAIL_PASSWORD=<your-email-password>
+    export SECRET_KEY=<your-secret-key>
+    </code>
+
+
+
+
+
