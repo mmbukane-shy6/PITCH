@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-The Last Pitch application allows users to submit their one minute pitches and other users will vote on them and leave comments to give their feedback. The pitches are organized by category. You can visit the live site on
+The Pitch application allows users to submit their one minute pitches and other users will vote on them and leave comments to give their feedback. The pitches are organized by category. You can visit the live site on
 
 ### AUTHOR
 
