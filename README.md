@@ -108,7 +108,16 @@ As a user you are able to:
 
     <code>$ python3.6 manage.py server</code>
 
-    
+    ### TECHNOLOGIES USED
+
+    * Python3.7
+    * Flask
+    * HTML
+    * Bootsrap
+
+    This application is developed using <code> Python3.6,Flask,HTML and Bootsrap<code>
+
+
 
 
 
