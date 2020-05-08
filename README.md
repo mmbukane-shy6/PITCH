@@ -89,19 +89,20 @@ As a user you are able to:
    * Install all the dependencies from the requirements.txt file by running <code>python3.6 pip install -r requirements.txt</code>
 
    * Create a <code>start.sh</code> file in the root of the folder and add the following code:
-   <code>
+   
     export MAIL_USERNAME=<your-email-address>
 
     export MAIL_PASSWORD=<your-email-password>
 
     export SECRET_KEY=<your-secret-key>
-    </code>
+    
 
     * Edit the configuration instance in <code>manage.py<code> by commenting on production instance and uncommenting development instance
 
     * To run the application, in your terminal:
 
-    <code>chmod a+x start.sh</code><br>
+    <code>chmod a+x start.sh</code>
+
     <code>./start.sh</code>
 
     * To tun the tests for the class file:
@@ -115,8 +116,16 @@ As a user you are able to:
     * HTML
     * Bootsrap
 
-    This application is developed using <code> Python3.6,Flask,HTML and Bootsrap<code>
+    This application is developed using <code> Python3.6,Flask,HTML and Bootsrap</code>
 
+### CONTACT INFORMATION
+
+Email: sheilaegeidza@gmail.com
+
+### LICENCE
+MIT License:<LICENSE MIT>
+
+Copyright (c) 2020 Sheila Egeidza
 
 
 
